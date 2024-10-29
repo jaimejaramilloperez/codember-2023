@@ -21,7 +21,8 @@
   "scripts": {
     "challenge1": " node ./src/challenge-01",
     "challenge2": " node ./src/challenge-02",
-    "challenge3": " node ./src/challenge-03"
+    "challenge3": " node ./src/challenge-03",
+    "challenge4": " node ./src/challenge-04"
   },
   "devDependencies": {
     "standard": "17.1.0"

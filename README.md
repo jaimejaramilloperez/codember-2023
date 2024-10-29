@@ -14,4 +14,5 @@ My solutions to [Codember](https://codember.dev/) 2023 challenges created by [@m
 | :-: | :------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------: |
 | 01  | [**The Challenge**](/src/challenge-01/README.md)                     | [![GitHub Badge](https://img.shields.io/badge/Code-181717?logo=github&logoColor=fff&style=flat-square)](/src/challenge-01/index.js)   |
 | 02  | [**Mini Compiler Challenge**](/src/challenge-02/README.md)           | [![GitHub Badge](https://img.shields.io/badge/Code-181717?logo=github&logoColor=fff&style=flat-square)](/src/challenge-02/index.js)   |
-| 03  | [**The Spy Encryption Challenge**](/src/challenge-03/README.md)      | [![GitHub Badge](https://img.shields.io/badge/Code-181717?logo=github&logoColor=fff&style=flat-square)](/src/challenge-03/index.js) |
+| 03  | [**The Spy Encryption Challenge**](/src/challenge-03/README.md)      | [![GitHub Badge](https://img.shields.io/badge/Code-181717?logo=github&logoColor=fff&style=flat-square)](/src/challenge-03/index.js)   |
+| 04  | [**Hackers Damage File System**](/src/challenge-04/README.md)        | [![GitHub Badge](https://img.shields.io/badge/Code-181717?logo=github&logoColor=fff&style=flat-square)](/src/challenge-04/index.js)   |
