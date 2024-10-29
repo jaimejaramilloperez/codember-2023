@@ -1,0 +1,22 @@
+{
+  "name": "codember-2023",
+  "version": "1.0.0",
+  "description": "Solution to the Codember 2023 challenges by @midudev",
+  "type": "module",
+  "author": "Jaime Jaramillo Pérez",
+  "license": "ISC",
+  "engines": {
+    "node": ">=20.18.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jaimejaramilloperez/codember-2023.git"
+  },
+  "keywords": [
+    "codember",
+    "challenges",
+    "challenge",
+    "javascript"
+  ],
+  "scripts": {}
+}
