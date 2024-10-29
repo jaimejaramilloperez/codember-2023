@@ -16,3 +16,4 @@ Mis soluciones a los retos de [Codember](https://codember.dev/) 2023 creado por 
 | 02  | [**Mini Compiler Challenge**](/src/challenge-02/README.md)           | [![GitHub Badge](https://img.shields.io/badge/Código-181717?logo=github&logoColor=fff&style=flat-square)](/src/challenge-02/index.js) |
 | 03  | [**El Desafío del Cifrado Espía**](/src/challenge-03/README.md)      | [![GitHub Badge](https://img.shields.io/badge/Código-181717?logo=github&logoColor=fff&style=flat-square)](/src/challenge-03/index.js) |
 | 04  | [**Hackers dañan sistema de archivos**](/src/challenge-04/README.md) | [![GitHub Badge](https://img.shields.io/badge/Código-181717?logo=github&logoColor=fff&style=flat-square)](/src/challenge-04/index.js) |
+| 05  | [**El problema final**](/src/challenge-05/README.md)                 | [![GitHub Badge](https://img.shields.io/badge/Código-181717?logo=github&logoColor=fff&style=flat-square)](/src/challenge-05/index.js) |

@@ -22,7 +22,8 @@
     "challenge1": " node ./src/challenge-01",
     "challenge2": " node ./src/challenge-02",
     "challenge3": " node ./src/challenge-03",
-    "challenge4": " node ./src/challenge-04"
+    "challenge4": " node ./src/challenge-04",
+    "challenge5": " node ./src/challenge-05"
   },
   "devDependencies": {
     "standard": "17.1.0"
