@@ -20,7 +20,8 @@
   ],
   "scripts": {
     "challenge1": " node ./src/challenge-01",
-    "challenge2": " node ./src/challenge-02"
+    "challenge2": " node ./src/challenge-02",
+    "challenge3": " node ./src/challenge-03"
   },
   "devDependencies": {
     "standard": "17.1.0"
