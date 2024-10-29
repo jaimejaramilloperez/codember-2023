@@ -19,7 +19,8 @@
     "javascript"
   ],
   "scripts": {
-    "challenge1": " node ./src/challenge-01"
+    "challenge1": " node ./src/challenge-01",
+    "challenge2": " node ./src/challenge-02"
   },
   "devDependencies": {
     "standard": "17.1.0"

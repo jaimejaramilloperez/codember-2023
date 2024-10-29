@@ -12,4 +12,5 @@ My solutions to [Codember](https://codember.dev/) 2023 challenges created by [@m
 
 |  #  | Challenge                                                            | Solution                                                                                                                              |
 | :-: | :------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------: |
-| 01  | [**The Challenge**](/src/challenge-01/README.md)                     | [![GitHub Badge](https://img.shields.io/badge/Code-181717?logo=github&logoColor=fff&style=flat-square)](/src/challenge-01/index.js) |
+| 01  | [**The Challenge**](/src/challenge-01/README.md)                     | [![GitHub Badge](https://img.shields.io/badge/Code-181717?logo=github&logoColor=fff&style=flat-square)](/src/challenge-01/index.js)   |
+| 02  | [**Mini Compiler Challenge**](/src/challenge-02/README.md)           | [![GitHub Badge](https://img.shields.io/badge/Code-181717?logo=github&logoColor=fff&style=flat-square)](/src/challenge-02/index.js)   |
