@@ -18,7 +18,9 @@
     "challenge",
     "javascript"
   ],
-  "scripts": {},
+  "scripts": {
+    "challenge1": " node ./src/challenge-01"
+  },
   "devDependencies": {
     "standard": "17.1.0"
   },
