@@ -9,7 +9,8 @@
 Mis soluciones a los retos de [Codember](https://codember.dev/) 2023 creado por [@midudev](https://github.com/midudev/) 👾
 
 ## ✨ ¿Qué es codember?
-Codember es un juego y reto de programación que se realiza en el mes de noviembre para la comunidad de [@midudev](https://github.com/midudev/). Cada semana se publica un reto que se debe resolver usando ingenio y programación. Cada reto tiene una explicación del problema e instrucciones de cómo solucionarlo.
+
+Codember es un juego y reto de programación que se realiza en el mes de noviembre para la comunidad de [@midudev](https://github.com/midudev/). Cada semana se publica un reto que se debe resolver usando ingenio y programación. Cada reto tiene una explicación del problema y su solución.
 
 ## 🎮 Retos
 
