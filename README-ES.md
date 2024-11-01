@@ -14,13 +14,13 @@ Codember es un juego y reto de programación que se realiza en el mes de noviemb
 
 ## 🎮 Retos
 
-|  #  | Reto                                                                 | Solución                                                                                                                              |
-| :-: | :------------------------------------------------------------------  | :-----------------------------------------------------------------------------------------------------------------------------------: |
-| 01  | [**El reto**](/src/challenge-01/README.md)                           | [![GitHub Badge](https://img.shields.io/badge/Código-181717?logo=github&logoColor=fff&style=flat-square)](/src/challenge-01/index.js) |
-| 02  | [**Mini Compiler Challenge**](/src/challenge-02/README.md)           | [![GitHub Badge](https://img.shields.io/badge/Código-181717?logo=github&logoColor=fff&style=flat-square)](/src/challenge-02/index.js) |
-| 03  | [**El Desafío del Cifrado Espía**](/src/challenge-03/README.md)      | [![GitHub Badge](https://img.shields.io/badge/Código-181717?logo=github&logoColor=fff&style=flat-square)](/src/challenge-03/index.js) |
-| 04  | [**Hackers dañan sistema de archivos**](/src/challenge-04/README.md) | [![GitHub Badge](https://img.shields.io/badge/Código-181717?logo=github&logoColor=fff&style=flat-square)](/src/challenge-04/index.js) |
-| 05  | [**El problema final**](/src/challenge-05/README.md)                 | [![GitHub Badge](https://img.shields.io/badge/Código-181717?logo=github&logoColor=fff&style=flat-square)](/src/challenge-05/index.js) |
+|  #  | Reto                                                                    | Solución                                                                                                                              |
+| :-: | :---------------------------------------------------------------------  | :-----------------------------------------------------------------------------------------------------------------------------------: |
+| 01  | [**El reto**](/src/challenge-01/README-ES.md)                           | [![GitHub Badge](https://img.shields.io/badge/Código-181717?logo=github&logoColor=fff&style=flat-square)](/src/challenge-01/index.js) |
+| 02  | [**Mini Compiler Challenge**](/src/challenge-02/README-ES.md)           | [![GitHub Badge](https://img.shields.io/badge/Código-181717?logo=github&logoColor=fff&style=flat-square)](/src/challenge-02/index.js) |
+| 03  | [**El Desafío del Cifrado Espía**](/src/challenge-03/README-ES.md)      | [![GitHub Badge](https://img.shields.io/badge/Código-181717?logo=github&logoColor=fff&style=flat-square)](/src/challenge-03/index.js) |
+| 04  | [**Hackers dañan sistema de archivos**](/src/challenge-04/README-ES.md) | [![GitHub Badge](https://img.shields.io/badge/Código-181717?logo=github&logoColor=fff&style=flat-square)](/src/challenge-04/index.js) |
+| 05  | [**El problema final**](/src/challenge-05/README-ES.md)                 | [![GitHub Badge](https://img.shields.io/badge/Código-181717?logo=github&logoColor=fff&style=flat-square)](/src/challenge-05/index.js) |
 
 ## Instalación y Ejecución
 
