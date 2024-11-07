@@ -13,7 +13,7 @@ export function isAValidAge (value) {
  */
 export function isAValidEmail (value) {
   const emailRegex = /^[a-zA-Z\d._-]+@[a-zA-Z\d.-]+\.[a-zA-Z]{2,4}$/
-  return value.match(emailRegex) !== null
+  return emailRegex.test(value)
 }
 
 /**
@@ -30,5 +30,6 @@ export function isAValidLocation (value) {
  * @returns {boolean}
  */
 export function isAlphaNumeric (value) {
-  return value.match(/^[a-zA-Z\d]+$/) !== null
+  const alphaNumericRegex = /^[a-zA-Z\d]+$/
+  return alphaNumericRegex.test(value)
 }

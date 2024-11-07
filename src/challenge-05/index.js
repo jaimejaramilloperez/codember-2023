@@ -7,6 +7,7 @@ import { isAValidAge, isAValidEmail, isAValidLocation, isAlphaNumeric } from './
  * @returns {boolean}
  */
 function isAValidUser (user) {
+  if (!user) return false
   const [id, username, email, age, location] = user.trim().split(',', 5)
 
   return isAlphaNumeric(id) &&
@@ -24,8 +25,6 @@ function getSecretMessage (users) {
   const invalidUsersFirstChar = []
 
   for (const user of users.split('\n')) {
-    if (!user) continue
-
     if (!isAValidUser(user)) {
       const [, username] = user.trim().split(',', 5)
       invalidUsersFirstChar.push(username.charAt(0))
