@@ -18,7 +18,7 @@ function isAValidFileName (fileName) {
 
   const uniqueChars = []
 
-  for (const [key, value] of charsMap.entries()) {
+  for (const [key, value] of charsMap) {
     if (value === 1) uniqueChars.push(key)
   }
 
