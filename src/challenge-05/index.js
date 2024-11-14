@@ -40,7 +40,7 @@ const path = join(import.meta.dirname, FILE_NAME)
 try {
   const content = await readFile(path, { encoding: 'utf-8' })
   console.log('submit', getSecretMessage(content))
-} catch (e) {
-  console.log(e.message)
+} catch (error) {
+  console.log(error.message)
   process.exit(1)
 }

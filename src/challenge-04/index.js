@@ -55,7 +55,7 @@ const REAL_FILE_TO_SEARCH = 33
 try {
   const content = await readFile(path, { encoding: 'utf-8' })
   console.log('submit', getValidChecksumFile(content, REAL_FILE_TO_SEARCH))
-} catch (e) {
-  console.log(e.message)
+} catch (error) {
+  console.log(error.message)
   process.exit(1)
 }

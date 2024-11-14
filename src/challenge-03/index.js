@@ -39,7 +39,7 @@ const INVALID_PASSWORD_TO_SEARCH = 42
 try {
   const content = await readFile(path, { encoding: 'utf-8' })
   console.log('submit', getInvalidKey(content, INVALID_PASSWORD_TO_SEARCH))
-} catch (e) {
-  console.log(e.message)
+} catch (error) {
+  console.log(error.message)
   process.exit(1)
 }

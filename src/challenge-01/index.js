@@ -23,7 +23,7 @@ const path = join(import.meta.dirname, FILE_NAME)
 try {
   const content = await readFile(path, { encoding: 'utf-8' })
   console.log('submit', analizeText(content))
-} catch (e) {
-  console.log('Error reading file:', e.message)
+} catch (error) {
+  console.log(error.message)
   process.exit(1)
 }
